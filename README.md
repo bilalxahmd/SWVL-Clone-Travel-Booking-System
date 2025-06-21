@@ -17,10 +17,6 @@ This C++ program is a console-based application for managing a travel and cab bo
 ### Steps
 
 1. **Clone the Repository**:
-    ```sh
-    git clone <repository_url>
-    cd <repository_name>
-    ```
 
 2. **Compile the Code**:
     ```sh
